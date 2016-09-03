@@ -1,0 +1,14 @@
+layout_spectrum: 0.3545715
+typography_spectrum: 0.8995703
+color:
+  saturation: 0.27748
+  lightness: 0.3670798
+  brandStrength: 0.9445644
+  brandColors:
+    - '#FFFFFF'
+    - '#A8000D'
+    - '#999999'
+    - '#282828'
+    - '#5F5F5F'
+  rhythmicContrast: 0.6347951
+name: UTAH
